@@ -1,0 +1,8 @@
+Debug/
+Release/
+*.o
+*.elf
+*.hex
+*.bin
+*.componentinfo.xml
+.vs/
