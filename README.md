@@ -1,6 +1,6 @@
 # 328p-flaw3d-bootloader
 
-This repository contains a version of the FLAW3D bootloader used in the paper _FLAW3D: A Trojan-based Cyber Attack on the Physical Outcomes of Additive Manufacturing_, which is currently available from [arXiv](https://arxiv.org/abs/2104.09562) and was accepted in [ASME/IEEE Transactions on Mechatronics](Department of Electrical and Computer Engineering). 
+This repository contains a version of the FLAW3D bootloader used in the paper _FLAW3D: A Trojan-based Cyber Attack on the Physical Outcomes of Additive Manufacturing_, which is currently available from [arXiv](https://arxiv.org/abs/2104.09562) and was accepted in [ASME/IEEE Transactions on Mechatronics](https://ieeexplore.ieee.org/abstract/document/9798699). 
 
 For your convenience, the code which has been edited has been clearly labelled in the comments (Using `/*** DEMO COMPROMISE CODE ***/` blocks). 
 
